@@ -9,23 +9,10 @@ body{
 }
 body{
     color: black;
-    background-image: url(http://kidspot.co.nz/wp-content/uploads/2017/04/canadian_flag_346x210.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-   opacity: 1;
-    
-    
-        
+    background-color: grey;
+    opacity: 1;    
 }
-div{ 
-    font-family: "Times New Roman";
-    color: red;
-    font-size: 20px;
-    width:1000px;
-    height: 800px;
-    
-}
-header{
+.header{
 	width: 1000px;
 	height: 120px;
 	margin: 0 auto;
@@ -125,6 +112,7 @@ ul li ul{
 		width: 100%;
 		height: auto;
 	}
-    
-        
+    .div2{
+        color:black;
     }
+ 
