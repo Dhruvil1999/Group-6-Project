@@ -112,26 +112,3 @@ ul li ul{
 		overflow-x:hidden;
 	}
 }
-.divjob{
-    font-size:26px;
-    color:blue;
-}
-.exp{
-    font-size:26px;
-    color:blue;
-}
-.jobimg{
-    height:700px;
-    width:700px;
-    margin: 10px 500px;
-}
-body{
-background-color: yellow;
-}
-.stay{
-    color:blue;
-    font-size:26px;
-}
-.visitimg{
-    padding:50px 200px;
-}
