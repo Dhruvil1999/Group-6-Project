@@ -8,11 +8,10 @@ body{
 	font-family: sans-serif,arial;
 }
 body{
-    color: black;
-    background-color: grey;
-    opacity: 1;    
+    background-image: url(http://windsorrealestateonline.com/account/6c12fba0743da480/pages/73238_1.jpg);
+    
 }
-.header{
+header{
 	width: 1000px;
 	height: 120px;
 	margin: 0 auto;
@@ -112,7 +111,3 @@ ul li ul{
 		width: 100%;
 		height: auto;
 	}
-    .div2{
-        color:black;
-    }
- 
